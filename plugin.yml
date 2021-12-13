@@ -1,0 +1,5 @@
+name: AntiShulkerEnderchest
+main: me.vaape.antishulkerenderchest.AntiShulkerEnderchest
+version: 1.0
+api-version: 1.17
+commands:
